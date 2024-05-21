@@ -1,0 +1,19 @@
+.bg-img {
+  background-image: url('/src/assets/img/task.jpg'); /* Replace 'background.jpg' with your image path */
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}s
+.form-control {
+  border-radius: 0;
+}
+
+.looking_for_section{
+  margin: 100px 100px;
+}
+.mail-info{
+  height:300px;
+}
+.form-control.text-light::placeholder {
+  color: white;
+}

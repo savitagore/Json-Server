@@ -1,0 +1,38 @@
+{
+  "register": [
+    {
+      "id": "cc4e",
+      "firstName": "Savita",
+      "lastName": "Gore",
+      "email": "savitag096@gmail.com",
+      "number": "08329098687",
+      "age": 10,
+      "state": "Ontario",
+      "country": "Canada",
+      "addressType": "Home",
+      "address1": "405 shiv sai society' pune wagholi",
+      "address2": "Bavdi road",
+      "companyAddress1": "",
+      "companyAddress2": "",
+      "tags": "",
+      "subscribe": false
+    },
+    {
+      "id": "f96b",
+      "firstName": "Savita",
+      "lastName": "Gore",
+      "email": "savitag096@gmail.com",
+      "number": "08329098687",
+      "age": 29,
+      "state": "Quebec",
+      "country": "Canada",
+      "addressType": "Company",
+      "address1": "405 shiv sai society' pune wagholi",
+      "address2": "Bavdi road",
+      "companyAddress1": "fgrgf",
+      "companyAddress2": "dfff",
+      "tags": "errrt",
+      "subscribe": false
+    }
+  ]
+}
